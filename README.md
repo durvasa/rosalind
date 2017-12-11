@@ -1,2 +1,2 @@
 # rosalind
-Own solutions to problems found in http://rosalind.info
+Own solutions to problems from http://rosalind.info
